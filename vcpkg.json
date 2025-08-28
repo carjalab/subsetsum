@@ -1,0 +1,12 @@
+{
+  "dependencies": [
+    {
+      "name": "boost-random",
+      "version>=": "1.88.0"
+    },
+    "boost-ublas",
+    "fmt",
+    "magic-enum"
+  ],
+  "builtin-baseline": "3421943bfdef53a1d16404e98b5b487112c59df2"
+}
